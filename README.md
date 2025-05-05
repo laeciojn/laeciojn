@@ -12,6 +12,9 @@
 ###
 
 <h2 align="center">Tecnologias que eu uso:</h2>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="postgresql logo" />
   <img width="12" />
