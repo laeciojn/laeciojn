@@ -12,6 +12,7 @@
 ###
 
 <h2 align="center">Tecnologias que eu uso:</h2>
+
 ### 
 
 <div align="center">
@@ -34,7 +35,9 @@
 
 ###
 
-### Minhas Estatísticas
+<h2 align="center">Minhas Estatísticas</h2>
+
+### 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laeciodev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
@@ -42,7 +45,9 @@
 
 ###
 
-### Contribuições no GitHub
+<h2 align="center">Contribuições no GitHub</h2>
+
+### 
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laeciodev/laeciodev/output/github-contribution-grid-snake-dark.svg">
@@ -52,7 +57,9 @@
 
 ###
 
-### Gráfico de Atividades
+<h2 align="center">Gráfico de Atividades</h2>
+
+### 
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=laeciodev&radius=16&theme=github-dark&area=false&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
