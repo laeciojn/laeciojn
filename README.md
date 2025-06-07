@@ -50,9 +50,9 @@
 ### 
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laeciodev/laeciodev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laeciodev/laeciodev/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/laeciodev/laeciodev/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laeciojn/laeciojn/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laeciojn/laeciojn/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/laeciojn/laeciojn/output/github-contribution-grid-snake.svg">
 </picture>
 
 ###
@@ -62,5 +62,5 @@
 ### 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=laeciodev&radius=16&theme=github-dark&area=false&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=laeciojn&radius=16&theme=github-dark&area=false&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
