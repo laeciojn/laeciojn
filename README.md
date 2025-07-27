@@ -5,7 +5,6 @@
 ###
 
 <p align="center">
-  <img align="left" height="156" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2t2d3FkOTdmemRpcjhmNW8wa3I2ZjdwdG82NTJ3NWJxc3ZobDJtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" />
   <span style="font-size: 18px;">Desenvolvedor de software movido pela curiosidade e pelo desejo de aprender constantemente. Busco escrever código limpo, reutilizável e que gere impacto positivo. Gosto de colaborar em equipe, compartilhar conhecimento e sempre me desafiar a resolver problemas de forma criativa. Estou sempre em busca de novas formas de aprimorar minhas habilidades e entregar soluções de qualidade. 🖥️🚀</span>
 </p>
 
