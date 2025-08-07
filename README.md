@@ -13,6 +13,18 @@
 
 ---
 
+<h2 align="center">Principais Soft Skills</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Comunicação%20clara-4CAF50?style=for-the-badge&logo=wechat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Proatividade-2196F3?style=for-the-badge&logo=thunderbird&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trabalho%20em%20equipe-9C27B0?style=for-the-badge&logo=teams&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Aprendizagem%20contínua-FF9800?style=for-the-badge&logo=bookstack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Resolução%20de%20problemas-F44336?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</div>
+
+---
+
 <h2 align="center">Tecnologias que eu uso:</h2>
 
 <div align="center">
@@ -34,6 +46,8 @@
 </div>
 <div align="center" style="margin-top: 8px;">
   <span>
+    <strong>Java</strong> • <strong>Spring Boot</strong> • <strong>PgAdmin/PostgreSQL</strong> • <strong>MySQL</strong> • <strong>Git</strong> • <strong>GitHub</strong> • <strong>Docker</strong> • <strong>Angular</strong>
+  </span>
 </div>
 
 ---
@@ -69,10 +83,10 @@
 <h2 align="center">Vamos Conectar!</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/laeciojn/" target="_blank">
+  <a href="https://www.linkedin.com/in/laeciojesusn/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:laeciojn@gmail.com">
+  <a href="mailto:laeciojesusn@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
