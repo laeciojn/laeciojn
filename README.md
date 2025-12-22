@@ -40,13 +40,11 @@
   <img width="20"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" title="GitHub"/>
   <img width="20"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angular logo" title="Angular"/>
-  <img width="20"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" title="PostgreSQL/PgAdmin"/>
 </div>
 <div align="center" style="margin-top: 8px;">
   <span>
-    <strong>Java</strong> • <strong>Spring Boot</strong> • <strong>PgAdmin/PostgreSQL</strong> • <strong>MySQL</strong> • <strong>Git</strong> • <strong>GitHub</strong> • <strong>Docker</strong> • <strong>Angular</strong>
+    <strong>Java</strong> • <strong>Spring Boot</strong> • <strong>PgAdmin/PostgreSQL</strong> • <strong>MySQL</strong> • <strong>Git</strong> • <strong>GitHub</strong> • <strong>Docker</strong>
   </span>
 </div>
 
