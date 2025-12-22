@@ -44,7 +44,7 @@
 </div>
 <div align="center" style="margin-top: 8px;">
   <span>
-    <strong>Java</strong> • <strong>Spring Boot</strong> • <strong>PgAdmin/PostgreSQL</strong> • <strong>MySQL</strong> • <strong>Git</strong> • <strong>GitHub</strong> • <strong>Docker</strong>
+    <strong>Java</strong> • <strong>Spring Boot</strong> • <strong>PostgreSQL</strong> • <strong>MySQL</strong> • <strong>Git</strong> • <strong>GitHub</strong> • <strong>Docker</strong>
   </span>
 </div>
 
