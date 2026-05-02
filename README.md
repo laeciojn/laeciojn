@@ -4,7 +4,7 @@
 
 <br/>
 
-<p>🎓 Cursando Sistemas de Informação · Tecnólogo em ADS pela <a href="https://www.senacdf.com.br/" target="_blank">Senac DF</a></p>
+<p>🎓 Cursando Sistemas de Informação
 <p>☕ Stack principal: Java & Spring Boot · Python · PostgreSQL · SAP · Pipefy</p>
 <p>📜 <a href="#">ITIL® 4 Foundation</a> · <a href="#">Scrum SFPC</a> · <a href="#">Pipefy Operator & Builder</a> · <a href="#">Git & GitHub</a></p>
 
