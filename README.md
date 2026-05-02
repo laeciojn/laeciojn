@@ -11,7 +11,6 @@
 <p>🎓 Cursando Sistemas de Informação</p>
 <p>☕ Stack principal: Java & Spring Boot · Python · PostgreSQL · SAP · Pipefy</p>
 <p>📜 <a href="#">ITIL® 4 Foundation</a> · <a href="#">Scrum SFPC</a> · <a href="#">Pipefy Operator & Builder</a> · <a href="#">Git & GitHub</a></p>
-<p>📈 Construindo minha jornada rumo a Analista de Sistemas — onde código encontra processo</p>
 
 ---
 
