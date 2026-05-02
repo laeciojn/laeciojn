@@ -1,90 +1,47 @@
-<br clear="both">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=180&section=header&text=Laécio%20Jesus&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Systems%20%26%20Process%20Analyst%20in%20the%20making&descSize=16&descAlignY=58&descColor=c7d2fe"/>
+</div>
 
-<h2 align="center">Olá 👋! Meu nome é Laécio!</h2>
+<br/>
 
-<p align="center">
-  <span style="font-size: 18px;">
-    Desenvolvedor de software movido pela curiosidade e pelo desejo de aprender constantemente.<br>
-    Busco escrever código limpo, reutilizável e que gere impacto positivo.<br>
-    Gosto de colaborar em equipe, compartilhar conhecimento e sempre me desafiar a resolver problemas de forma criativa.<br>
-    Estou em busca de novas formas de aprimorar minhas habilidades e entregar soluções de qualidade. 🖥️🚀
-  </span>
-</p>
+<p>🎓 Cursando Sistemas de Informação · Tecnólogo em ADS pela <a href="https://www.senacdf.com.br/" target="_blank">Senac DF</a></p>
+<p>☕ Stack principal: Java & Spring Boot · Python · PostgreSQL · SAP · Pipefy</p>
+<p>📜 <a href="#">ITIL® 4 Foundation</a> · <a href="#">Scrum SFPC</a> · <a href="#">Pipefy Operator & Builder</a> · <a href="#">Git & GitHub</a></p>
 
----
-
-<h2 align="center">Principais Soft Skills</h2>
+<br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Comunicação%20clara-4CAF50?style=for-the-badge&logo=wechat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Proatividade-2196F3?style=for-the-badge&logo=thunderbird&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Trabalho%20em%20equipe-9C27B0?style=for-the-badge&logo=teams&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Aprendizagem%20contínua-FF9800?style=for-the-badge&logo=bookstack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Resolução%20de%20problemas-F44336?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-laeciojesusn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laeciojesusn/)
+[![Gmail](https://img.shields.io/badge/Gmail-laeciojesusn@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laeciojesusn@gmail.com)
+
 </div>
 
----
-
-<h2 align="center">Tecnologias que eu uso:</h2>
+<br/>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" title="Java"/>
-  <img width="20"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot logo" title="Spring Boot"/>
-  <img width="20"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" title="Docker"/>
-  <img width="20"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" title="MySQL"/>
-  <img width="20"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" title="Git"/>
-  <img width="20"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" title="GitHub"/>
-  <img width="20"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" title="PostgreSQL/PgAdmin"/>
-</div>
-<div align="center" style="margin-top: 8px;">
-  <span>
-    <strong>Java</strong> • <strong>Spring Boot</strong> • <strong>PostgreSQL</strong> • <strong>MySQL</strong> • <strong>Git</strong> • <strong>GitHub</strong> • <strong>Docker</strong>
-  </span>
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,postgres,mysql,docker,git,github,pycharm,vscode)](https://skillicons.dev)
+
 </div>
 
----
-
-<h2 align="center">Minhas Estatísticas</h2>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laeciojn&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=laeciojn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=6366f1&icon_color=6366f1" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=laeciojn&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=6366f1" />
 </div>
 
----
+<br/>
 
-<h2 align="center">Contribuições no GitHub</h2>
-
-<p align="center">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laeciojn/laeciojn/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laeciojn/laeciojn/output/github-contribution-grid-snake.svg">
-    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/laeciojn/laeciojn/output/github-contribution-grid-snake.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/laeciojn/laeciojn/output/github-contribution-grid-snake.svg">
   </picture>
-</p>
-
----
-
-<h2 align="center">Gráfico de Atividades</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=laeciojn&radius=16&theme=github-dark&area=false&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
----
-
-<h2 align="center">Vamos Conectar!</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/laeciojesusn/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:laeciojesusn@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer"/>
+</div>
