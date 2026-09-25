@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./hero.svg" alt="Laécio Neves — Desenvolvedor backend" width="100%" />
+  <img src="./hero" alt="Laécio Neves — Desenvolvedor backend" width="100%" />
 </p>
 
 <p align="center">
