@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./hero.svg" alt="Laécio Neves — Desenvolvedor backend Java" width="100%" />
+  <img src="./hero.svg" alt="Laécio Neves — Desenvolvedor backend" width="100%" />
 </p>
 
 <p align="center">
@@ -13,10 +13,9 @@
 
 ```java
 public class Laecio {
-    String cargo    = "Estagiário de Desenvolvimento @ Develcode";
-    String formacao = "ADS (Senac-DF) + Sistemas de Informação (em andamento)";
+    String cargo    = "Estagiário de Desenvolvimento de Software";
+    String formacao = "Sistemas de Informação";
     String foco     = "APIs com Spring Boot e automação de processos";
-    String extra    = "DIO Campus Expert #16";
 }
 ```
 
