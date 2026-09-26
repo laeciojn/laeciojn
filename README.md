@@ -11,11 +11,13 @@
 
 ### Sobre mim
 
+Sou desenvolvedor backend focado em criar soluções escaláveis, automatizar processos e entregar APIs robustas com Java e Spring Boot. Atualmente estou em formação em Sistemas de Informação e tenho interesse especial em backend, integração de sistemas, bancos de dados e produtividade com ferramentas de automação.
+
 ```java
 public class Laecio {
     String cargo    = "Estagiário de Desenvolvimento de Software";
     String formacao = "Sistemas de Informação";
-    String foco     = "APIs com Spring Boot e automação de processos";
+    String foco     = "APIs com Spring Boot, automação e integração de sistemas";
 }
 ```
 
@@ -30,6 +32,15 @@ public class Laecio {
 
 <br>
 
+### Atualmente
+
+- Desenvolvimento de APIs REST com Java e Spring Boot
+- Integração com banco de dados SQL e NoSQL
+- Automação de processos e fluxos de trabalho
+- Criação de soluções orientadas a performance e manutenção
+
+<br>
+
 ### Certificações
 
 <p align="left">
@@ -41,19 +52,19 @@ public class Laecio {
 
 <br>
 
-### Atividade
+### GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=laeciojn&show_icons=true&hide_border=true&count_private=true&bg_color=0E1726&title_color=F2A65A&icon_color=6DB33F&text_color=C9D4E3" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=laeciojn&show_icons=true&hide_border=true&count_private=true&bg_color=0E1726&title_color=F2A65A&icon_color=6DB33F&text_color=C9D4E3&rank_icon=github" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laeciojn&layout=compact&hide_border=true&bg_color=0E1726&title_color=F2A65A&text_color=C9D4E3" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=laeciojn&hide_border=true&background=0E1726&ring=F2A65A&fire=F2A65A&currStreakNum=E8EEF6&sideNums=E8EEF6&currStreakLabel=F2A65A&sideLabels=C9D4E3&dates=5B6B82&stroke=1E2A3D" />
+  <img src="https://streak-stats.demolab.com?user=laeciojn&theme=dark&hide_border=true&background=0E1726&ring=F2A65A&fire=F2A65A&currStreakNum=E8EEF6&sideNums=E8EEF6&currStreakLabel=F2A65A&sideLabels=C9D4E3&dates=C9D4E3" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=laeciojn&hide_border=true&area=true&bg_color=0E1726&color=C9D4E3&line=F2A65A&point=6DB33F&area_color=F2A65A&title_color=F2A65A" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=laeciojn&bg_color=0E1726&color=C9D4E3&line=F2A65A&point=6DB33F&area_color=F2A65A&title=Contribui%C3%A7%C3%B5es&hide_border=true" />
 </p>
 
 <p align="center">
